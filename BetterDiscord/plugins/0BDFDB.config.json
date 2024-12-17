@@ -1,0 +1,25 @@
+{
+	"all": {
+		"changeLogs": {
+			"BDFDB": "3.8.6",
+			"ImageUtilities": "5.4.9",
+			"PluginRepo": "2.5.9",
+			"ReadAllNotificationsButton": "1.7.8",
+			"SpellCheck": "1.6.9",
+			"ThemeRepo": "2.5.9"
+		},
+		"choices": {
+			"toastPosition": "right"
+		},
+		"general": {
+			"shareData": true,
+			"showToasts": true,
+			"showSupportBadges": false,
+			"useChromium": false
+		},
+		"hashes": {
+			"0BDFDB.data.json": "5f192cb31a95e4e6bc1add9f3509f02c943d237e",
+			"0BDFDB.raw.css": "7c6c34a10391702b93af4cfaeb3965fe7b0fdcc7"
+		}
+	}
+}
